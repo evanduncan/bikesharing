@@ -1,5 +1,7 @@
 # bikesharing
 
+[link to dashboard]https://public.tableau.com/app/profile/evan.a.duncan/viz/Citibike_16442119226560/CitiBikeStory?publish=yes
+
 ## Overview
 The purpose of this analysis is to produce a summary of NYC Citibike data for the purposes of launching a new bike sharing program in Des Moines, Iowa.
 
